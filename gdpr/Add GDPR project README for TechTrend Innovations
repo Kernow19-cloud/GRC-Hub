@@ -1,0 +1,19 @@
+## Projects
+- **[PaySafe Retail PCI-DSS Project](grc/paysafe-retail/readme.md)**: A fictional e-commerce retailer’s compliance program for **PCI-DSS v4.0.0**, including:
+  - [PCI-DSS Fundamentals](grc/paysafe-retail/compliance/pci-dss-fundamentals.md): Overview of PCI-DSS requirements.
+  - [Payment Security Policy](grc/paysafe-retail/policies/payment-security-policy.md): Security policies for cardholder data.
+  - [Implementation Plan](grc/paysafe-retail/implementation/pci-dss-plan.md): Steps to achieve compliance.
+  - [Network Security Measures](grc/paysafe-retail/network-security/security-measures.md): CDE security controls.
+- **[TechSecure Solutions NIST CSF Project](nist/readme.md)**: A fictional U.S. technology firm’s compliance program for the **NIST Cybersecurity Framework**, including:
+  - [NIST CSF Fundamentals](nist/compliance/nist-csf-fundamentals.md): Overview of NIST CSF functions.
+  - [Cybersecurity Policy](nist/policies/cybersecurity-policy.md): Security policies for NIST compliance.
+  - [Implementation Plan](nist/implementation/nist-csf-plan.md): Steps to achieve NIST CSF compliance.
+  - [Security Controls](nist/security-measures/security-controls.md): Cybersecurity controls.
+- **[TechTrend Innovations GDPR Project](gdpr/readme.md)**: A fictional EU startup’s compliance program for the **General Data Protection Regulation**, including:
+  - [GDPR Fundamentals](gdpr/compliance/gdpr-fundamentals.md): Overview of GDPR principles (Planned).
+  - [Data Protection Policy](gdpr/policies/data-protection-policy.md): Privacy policies for GDPR compliance (Planned).
+  - [Implementation Plan](gdpr/implementation/gdpr-plan.md): Steps to achieve GDPR compliance (Planned).
+  - [Data Protection Measures](gdpr/data-protection/data-protection-measures.md): Data protection controls (Planned).
+- **Planned Projects**:
+  - **PDPA**: Data protection program for a fictional company in a PDPA-regulated region.
+  - **ISO27001**: Information security management for a fictional organization.
