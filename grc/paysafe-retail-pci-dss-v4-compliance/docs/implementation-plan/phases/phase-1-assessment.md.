@@ -1,0 +1,20 @@
+# Phase 1: Assessment and Planning (Q2 2025)
+
+## Objective
+Assess the current state of PaySafe Retail’s systems and plan for PCI-DSS v4.0 compliance.
+
+## Tasks
+- Conduct a gap analysis to compare current security controls against PCI-DSS v4.0 requirements.
+- Identify in-scope systems, including code repositories and CI/CD pipelines impacting the Cardholder Data Environment (CDE).
+- Assign a project lead to manage the transition.
+- Develop a detailed project timeline and resource allocation plan.
+- Document roles and responsibilities for compliance tasks.
+
+## Timeline
+- Start: April 2025
+- End: June 2025
+
+## Deliverables
+- Gap analysis report
+- Project timeline
+- Roles and responsibilities document
