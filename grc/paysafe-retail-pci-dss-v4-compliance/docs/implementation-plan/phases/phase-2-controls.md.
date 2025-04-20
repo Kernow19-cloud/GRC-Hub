@@ -1,0 +1,28 @@
+# Phase 2: Control Implementation (Q3-Q4 2025)
+
+## Objective
+Implement security controls to meet PCI-DSS v4.0 requirements.
+
+## Tasks
+- **Requirement 1: Network Security**  
+  - Implement and maintain firewalls to protect the CDE.
+  - Secure network configurations for POS and e-commerce platforms.
+- **Requirement 3: Protect Stored Data**  
+  - Implement file- or database-level encryption for cardholder data.
+  - Maintain an inventory of cryptographic methods.
+- **Requirement 6: Secure Development**  
+  - Maintain an inventory of JavaScript on payment pages.
+  - Implement tools to detect unauthorized script changes.
+- **Requirement 8: Access Controls**  
+  - Enforce Multi-Factor Authentication (MFA) for all CDE access.
+- **Requirement 11: Monitoring and Testing**  
+  - Deploy file integrity monitoring tools.
+
+## Timeline
+- Start: July 2025
+- End: December 2025
+
+## Deliverables
+- Updated network security configurations
+- Encryption implementation report
+- Script inventory for payment pages
