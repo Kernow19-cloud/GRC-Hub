@@ -17,7 +17,7 @@ The project is designed to demonstrate a practical, hands-on approach to complia
 | File / Folder | Description |
 |---------------|-------------|
 | [`0_Project_Overview.md`](./0_Project_Overview.md) | Introduction to PaySafe Retail and PCI-DSS project scope. |
-| [`1_PCI-DSS_Gap_Assessment.xlsx`](./1_PCI-DSS_Gap_Assessment.xlsx) | Gap analysis spreadsheet outlining current vs. required controls. |
+| [`1_PCI-DSS_Gap_Assessment.xlsx`](./1_PCI-DSS_Gap_Assessment.md) | Gap analysis spreadsheet outlining current vs. required controls. |
 | [`2_Risk_Assessment_Report.pdf`](./2_Risk_Assessment_Report.pdf) | Risk analysis focused on PCI-related threats and vulnerabilities. |
 | [`3_PCI-DSS_Compliance_Roadmap.md`](./3_PCI-DSS_Compliance_Roadmap.md) | Timeline and action plan to achieve compliance. |
 | [`4_Policies/`](./4_Policies/) | Drafted policy documents aligned with PCI-DSS (e.g., data protection, access control). |
