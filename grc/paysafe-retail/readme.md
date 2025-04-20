@@ -1,4 +1,4 @@
-# PaySafe Retail PCI-DSS v4.0.0 Compliance Project (Fictional)
+# PaySafe Retail PCI-DSS v4.0.0 Compliance Project. (Fictional)
 
 ## Overview
 **PaySafe Retail** is a fictional mid-sized e-commerce retailer processing 3 million card transactions annually. As a Level 2 merchant, it complies with **PCI-DSS v4.0.0** to secure cardholder data.
