@@ -1,0 +1,17 @@
+## GRC Portfolio Projects
+
+### [PCI-DSS Project – PaySafe Retail](paysafe-retail/README.md)
+**Type:** Compliance Simulation  
+**Framework:** PCI-DSS v4.0  
+**Sector:** E-commerce  
+
+**Overview:**  
+A comprehensive PCI-DSS v4.0 compliance program designed for *PaySafe Retail*, a fictional European online retailer that processes, stores, and transmits cardholder data. This project demonstrates end-to-end GRC planning, policy development, and implementation strategy.
+
+**Key Components:**
+- PCI-DSS fundamentals and executive summary
+- Cardholder data security policy
+- Compliance implementation roadmap
+- Network and system security measures for the Cardholder Data Environment (CDE)
+
+> This project showcases practical GRC knowledge, documentation skills, and security control understanding tailored for payment environments.
