@@ -38,7 +38,7 @@ The project is designed to demonstrate a practical, hands-on approach to complia
 
 ## 👤 Author
 Created by [Your Name] as part of the **GRC-Hub** initiative to simulate real-world compliance environments.  
-🔗 [GitHub Profile](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 [GitHub Profile](https://github.com/Kernow19-cloud) 
 
 ---
 
