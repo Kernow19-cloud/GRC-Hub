@@ -16,17 +16,60 @@ GRC-Hub aims to:
 - **[iso27001/](iso27001/)**: Planned resources for ISO27001 compliance (information security management).
 
 ## Projects
-- **TechNova Solutions – PCI-DSS Compliance Project
+- # TechNova Solutions PCI-DSS Compliance Project
 
-A fictional e-commerce retailer’s PCI-DSS v4.0 compliance program, designed to showcase practical GRC knowledge in a real-world business context. The project includes:
-	•	PCI-DSS Fundamentals
-Overview of the PCI-DSS v4.0 framework, scope, and key requirements.
-	•	Payment Security Policy
-A tailored security policy outlining how TechNova handles, stores, and protects cardholder data (CHD).
-	•	Implementation Plan
-Step-by-step strategy for achieving PCI-DSS compliance, including milestones and responsible roles.
-	•	Network Security Measures
-Technical and procedural controls implemented to secure the Cardholder Data Environment (CDE), including firewalls, segmentation, and encryption.
+This project outlines **TechNova Solutions**, a fictional e-commerce retailer's compliance program for [PCI-DSS v4.0.0](https://www.pcisecuritystandards.org/document_library?category=pcidss&document=pci_dss). The program ensures secure handling of cardholder data, aligning with industry standards for payment security.
+
+## Table of Contents
+- [PCI-DSS Fundamentals](#pci-dss-fundamentals)
+- [Payment Security Policy](#payment-security-policy)
+- [Implementation Plan](#implementation-plan)
+- [Network Security Measures](#network-security-measures)
+
+## PCI-DSS Fundamentals
+
+The **Payment Card Industry Data Security Standard (PCI-DSS)** is a set of security standards designed to ensure that all companies that accept, process, store, or transmit credit card information maintain a secure environment. [PCI-DSS v4.0.0](https://www.pcisecuritystandards.org/document_library?category=pcidss&document=pci_dss) introduces updated requirements to address evolving threats.
+
+### Key Requirements
+PCI-DSS v4.0.0 is organized into **12 requirements** grouped under six objectives:
+
+1. **Build and Maintain a Secure Network and Systems**
+   - Install and maintain network security controls.
+   - Apply secure configurations to systems.
+2. **Protect Account Data**
+   - Protect stored account data.
+   - Encrypt transmission of cardholder data.
+3. **Maintain a Vulnerability Management Program**
+   - Protect systems from malware.
+   - Develop and maintain secure systems and software.
+4. **Implement Strong Access Control Measures**
+   - Restrict access to cardholder data by business need-to-know.
+   - Identify and authenticate access to system components.
+   - Restrict physical access to cardholder data.
+5. **Regularly Monitor and Test Networks**
+   - Track and monitor access to network resources and cardholder data.
+   - Regularly test security systems and processes.
+6. **Maintain an Information Security Policy**
+   - Maintain a policy that addresses information security.
+
+For detailed requirements, refer to the [PCI-DSS v4.0.0 Documentation](https://www.pcisecuritystandards.org/document_library?category=pcidss&document=pci_dss).
+
+## Payment Security Policy
+
+TechNova Solutions has established a **Payment Security Policy** to protect cardholder data and ensure compliance with PCI-DSS v4.0.0. The policy applies to all systems, personnel, and processes within the Cardholder Data Environment (CDE).
+
+### Policy Components
+1. **Data Retention and Disposal**
+   - Cardholder data is retained only as long as necessary for business, legal, or regulatory purposes.
+   - Secure data disposal methods (e.g., shredding, secure wiping) are used for physical and digital records.
+2. **Data Minimization**
+   - Only essential cardholder data (e.g., Primary Account Number, expiration date) is collected and stored.
+   - Sensitive authentication data (e.g., CVV, PIN) is not stored post-authorization.
+3. **Encryption**
+   - Cardholder data is encrypted at rest using AES-256.
+  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+
 - **Planned Projects**:
   - **GDPR**: Compliance program for a fictional EU-based company (e.g., TechTrend Innovations).
   - **NIST**: Implementation of NIST CSF or 800-53 for a fictional U.S. organisation.
