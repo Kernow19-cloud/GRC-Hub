@@ -16,7 +16,7 @@ GRC-Hub aims to:
 - **[iso27001/](iso27001/)**: Planned resources for ISO27001 compliance (information security management).
 
 ## Projects
-- **[PaySafe Retail PCI-DSS Project](grc/paysafe-retail/readme.md)**: A fictional e-commerce retailer’s compliance program for **PCI-DSS v4.0.0**, including:
+- **[TechNova Solutions PCI-DSS Project](grc/paysafe-retail/readme.md)**: A fictional e-commerce retailer’s compliance program for **PCI-DSS v4.0.0**, including:
   - [PCI-DSS Fundamentals](grc/paysafe-retail/compliance/pci-dss-fundamentals.md): Overview of PCI-DSS requirements.
   - [Payment Security Policy](grc/paysafe-retail/policies/payment-security-policy.md): Security policies for cardholder data.
   - [Implementation Plan](grc/paysafe-retail/implementation/pci-dss-plan.md): Steps to achieve compliance.
