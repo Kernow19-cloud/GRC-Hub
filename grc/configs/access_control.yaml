@@ -1,0 +1,25 @@
+# Access control policies for PCI-DSS Requirement 7
+access_policies:
+  - role: admin
+    description: Full access for system administrators
+    permissions:
+      - read
+      - write
+      - execute
+    resources:
+      - cardholder_data_environment
+      - access_logs
+      - configuration_files
+  - role: payment_processor
+    description: Limited access for payment processing staff
+    permissions:
+      - read
+    resources:
+      - access_logs
+  - role: auditor
+    description: Read-only access for compliance auditors
+    permissions:
+      - read
+    resources:
+      - access_logs
+      - vulnerability_scan_reports
