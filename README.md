@@ -16,11 +16,17 @@ GRC-Hub aims to:
 - **[iso27001/](iso27001/)**: Planned resources for ISO27001 compliance (information security management).
 
 ## Projects
-- **[TechNova Solutions PCI-DSS Project](grc/paysafe-retail/readme.md)**: A fictional e-commerce retailer’s compliance program for **PCI-DSS v4.0.0**, including:
-  - [PCI-DSS Fundamentals](grc/paysafe-retail/compliance/pci-dss-fundamentals.md): Overview of PCI-DSS requirements.
-  - [Payment Security Policy](grc/paysafe-retail/policies/payment-security-policy.md): Security policies for cardholder data.
-  - [Implementation Plan](grc/paysafe-retail/implementation/pci-dss-plan.md): Steps to achieve compliance.
-  - [Network Security Measures](grc/paysafe-retail/network-security/security-measures.md): CDE security controls.
+- **TechNova Solutions – PCI-DSS Compliance Project
+
+A fictional e-commerce retailer’s PCI-DSS v4.0 compliance program, designed to showcase practical GRC knowledge in a real-world business context. The project includes:
+	•	PCI-DSS Fundamentals
+Overview of the PCI-DSS v4.0 framework, scope, and key requirements.
+	•	Payment Security Policy
+A tailored security policy outlining how TechNova handles, stores, and protects cardholder data (CHD).
+	•	Implementation Plan
+Step-by-step strategy for achieving PCI-DSS compliance, including milestones and responsible roles.
+	•	Network Security Measures
+Technical and procedural controls implemented to secure the Cardholder Data Environment (CDE), including firewalls, segmentation, and encryption.
 - **Planned Projects**:
   - **GDPR**: Compliance program for a fictional EU-based company (e.g., TechTrend Innovations).
   - **NIST**: Implementation of NIST CSF or 800-53 for a fictional U.S. organisation.
