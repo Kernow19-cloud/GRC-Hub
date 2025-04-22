@@ -17,7 +17,9 @@ GRC-Hub aims to:
   ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 # TechNova Solutions PCI-DSS Compliance Program
 
-[TechNova Solutions](https://github.com/your-repo/tech-nova-solutions) is a fictional e-commerce retailer implementing a compliance program for PCI-DSS v4.0.0 to secure cardholder data.
+
+
+TechNova Solutions is a fictional e-commerce retailer implementing a compliance program for [PCI-DSS v4.0.0](https://www.pcisecuritystandards.org/document_library/?document=pci_dss) to secure cardholder data.
 
 ## PCI-DSS Fundamentals
 Overview of PCI-DSS requirements. See [PCI-DSS Fundamentals](#pci-dss-fundamentals) for details.
