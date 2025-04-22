@@ -15,25 +15,20 @@ GRC-Hub aims to:
 - **[pdpa/](pdpa/)**: Planned resources for PDPA compliance (data protection for jurisdictions like Singapore).
 - **[iso27001/](iso27001/)**: Planned resources for ISO27001 compliance (information security
   ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-# TechNova Solutions PCI-DSS Compliance Project
+TechNova Solutions is a fictional e-commerce retailer implementing a compliance program for [PCI-DSS v4.0.0](https://www.pcisecuritystandards.org/document_library?category=pcidss&document=pci_dss) to secure cardholder data. For more information, see the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project).
 
-**[TechNova Solutions](pci_dss_fundamentals.md)** is a fictional e-commerce retailer implementing a compliance program for [PCI-DSS v4.0.0](https://www.pcisecuritystandards.org/document_library?category=pcidss&document=pci_dss) to secure cardholder data.
+### PCI-DSS Fundamentals  
+Overview of PCI-DSS requirements. See the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project) for details.
 
-## PCI-DSS Fundamentals
+### Payment Security Policy  
+Security policies for cardholder data. See the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project) for details.
 
-Overview of PCI-DSS requirements. See **[TechNova Solutions](pci_dss_fundamentals.md)** for details.
+### Implementation Plan  
+Steps to achieve PCI-DSS compliance. See the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project) for details.
 
-## Payment Security Policy
+### Network Security Measures  
+Security controls for the Cardholder Data Environment (CDE). See the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project) for details.
 
-Security policies for cardholder data. See **[TechNova Solutions](payment_security_policy.md)** for details.
-
-## Implementation Plan
-
-Steps to achieve PCI-DSS compliance. See **[TechNova Solutions](implementation_plan.md)** for details.
-
-## Network Security Measures
-
-Security controls for the Cardholder Data Environment (CDE). See **[TechNova Solutions](network_security_measures.md)** for details.
 - **Planned Projects**:
   - **GDPR**: Compliance program for a fictional EU-based company (e.g., TechTrend Innovations).
   - **NIST**: Implementation of NIST CSF or 800-53 for a fictional U.S. organisation.
