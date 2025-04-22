@@ -22,16 +22,16 @@ GRC-Hub aims to:
 TechNova Solutions is a fictional e-commerce retailer implementing a compliance program for [PCI-DSS v4.0.0](https://www.pcisecuritystandards.org/document_library/?document=pci_dss) to secure cardholder data.
 
 ## PCI-DSS Fundamentals
-Overview of PCI-DSS requirements. See [PCI-DSS Fundamentals](#pci-dss-fundamentals) for details.
+Overview of PCI-DSS requirements. See [PCI-DSS Fundamentals](docs/TechNovaSolutionsPCIDSSFundamentals.md) for details.
 
 ## Payment Security Policy
-Security policies for cardholder data. See [Payment Security Policy](#payment-security-policy) for details.
+Security policies for cardholder data. See [Payment Security Policy](docs/TechNovaSolutionsPCIDSSPaymentSecurityPolicy.md) for details.
 
 ## Implementation Plan
-Steps to achieve PCI-DSS compliance. See [Implementation Plan](#implementation-plan) for details.
+Steps to achieve PCI-DSS compliance. See [Implementation Plan](docs/TechNovaSolutionsPCIDSSImplementationPlan.md) for details.
 
 ## Network Security Measures
-Security controls for the Cardholder Data Environment (CDE). See [Network Security Measures](#network-security-measures) for details.
+Security controls for the Cardholder Data Environment (CDE). See [Network Security Measures](docs/TechNovaSolutionsPCIDSSNetworkSecurityMeasures.md) for details.
 
 - **Planned Projects**:
   - **GDPR**: Compliance program for a fictional EU-based company (e.g., TechTrend Innovations).
