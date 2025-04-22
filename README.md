@@ -15,6 +15,7 @@ GRC-Hub aims to:
 - **[pdpa/](pdpa/)**: Planned resources for PDPA compliance (data protection for jurisdictions like Singapore).
 - **[iso27001/](iso27001/)**: Planned resources for ISO27001 compliance (information security
   ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+## Project
 TechNova Solutions is a fictional e-commerce retailer implementing a compliance program for [PCI-DSS v4.0.0](https://www.pcisecuritystandards.org/document_library?category=pcidss&document=pci_dss) to secure cardholder data. For more information, see the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project).
 
 ### PCI-DSS Fundamentals  
