@@ -15,20 +15,21 @@ GRC-Hub aims to:
 - **[pdpa/](pdpa/)**: Planned resources for PDPA compliance (data protection for jurisdictions like Singapore).
 - **[iso27001/](iso27001/)**: Planned resources for ISO27001 compliance (information security
   ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-## Project
-TechNova Solutions is a fictional e-commerce retailer implementing a compliance program for [PCI-DSS v4.0.0](https://www.pcisecuritystandards.org/document_library?category=pcidss&document=pci_dss) to secure cardholder data. For more information, see the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project).
+# TechNova Solutions PCI-DSS Compliance Program
 
-### PCI-DSS Fundamentals  
-Overview of PCI-DSS requirements. See the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project) for details.
+[TechNova Solutions](https://github.com/your-repo/tech-nova-solutions) is a fictional e-commerce retailer implementing a compliance program for PCI-DSS v4.0.0 to secure cardholder data.
 
-### Payment Security Policy  
-Security policies for cardholder data. See the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project) for details.
+## PCI-DSS Fundamentals
+Overview of PCI-DSS requirements. See [PCI-DSS Fundamentals](#pci-dss-fundamentals) for details.
 
-### Implementation Plan  
-Steps to achieve PCI-DSS compliance. See the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project) for details.
+## Payment Security Policy
+Security policies for cardholder data. See [Payment Security Policy](#payment-security-policy) for details.
 
-### Network Security Measures  
-Security controls for the Cardholder Data Environment (CDE). See the [TechNova Solutions PCI-DSS Project](./TechNova%20Solutions%20PCI-DSS%20Project) for details.
+## Implementation Plan
+Steps to achieve PCI-DSS compliance. See [Implementation Plan](#implementation-plan) for details.
+
+## Network Security Measures
+Security controls for the Cardholder Data Environment (CDE). See [Network Security Measures](#network-security-measures) for details.
 
 - **Planned Projects**:
   - **GDPR**: Compliance program for a fictional EU-based company (e.g., TechTrend Innovations).
